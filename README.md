@@ -1,7 +1,11 @@
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaansz&layout=compact&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaansz&hide=stars&count_private=true&show_icons=true&hide_rank=true&theme=dracula" />
-</div>
+```c
+printf("Hello! I'm a Computer Science Student 😎");
+```
+
+![yaansz Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yaansz&layout=compact&theme=dracula)
+
+![yaansz Stats](https://github-readme-stats.vercel.app/api?username=yaansz&hide=stars&count_private=true&show_icons=true&hide_rank=true&theme=dracula)
+
 
 <!--
 **yaansz/yaansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
