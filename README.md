@@ -1,5 +1,5 @@
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaansz&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaansz&layout=compact&theme=synthwave" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaansz&theme=synthwave" />
 </div>
 
