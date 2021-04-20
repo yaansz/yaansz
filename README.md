@@ -1,6 +1,6 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaansz&layout=compact&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaansz&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaansz&hide=stars&count_private=true&show_icons=true&hide_rank=true&theme=dracula" />
 </div>
 
 <!--
