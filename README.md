@@ -36,6 +36,11 @@ printf("Hello! I'm a Computer Science Student 😎");
   <a href = "mailto:yancfm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/yaaansz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
+
+<h3 align="center"> My Week: </h3> 
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Time" src="https://github-readme-stats.vercel.app/api/wakatime?username=yaansz">
+</div>
 <!--
 **yaansz/yaansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
