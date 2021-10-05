@@ -40,8 +40,10 @@ printf("Hello! I'm a Computer Science Student 😎");
   <a href = "mailto:yancfm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/yaaansz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
-
-
+  
+ <div align="center"> 
+  <a href="https://komarev.com/ghpvc/?username=yaansz" target="_blank"><img src="https://komarev.com/ghpvc/?username=yaansz&color=green&label=Curiosos&style=flat-square" target="_blank", align="center"></a>
+ </div>
 <!--
 
 <h3 align="center"> My Week: </h3> 
