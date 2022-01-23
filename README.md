@@ -28,7 +28,7 @@ printf("Hello! I'm a Computer Science Student 😎");
 <h3 align="center"> About: </h3>
 
 <div align="center">
-  <li> 🌱 I’m currently in the 5th semester of college at UFRRJ </li>
+  <li> 🌱 I’m currently in the 6th semester of college at UFRRJ </li>
   <li> 🔭 I’m currently working on a discord bot (just because i'm bored) </li> 
   <li onclick="location.href = 'https://github.com/Softawii/';"> 👯 I'm a contributor and co-founder at Softawii </li>
 </div>
