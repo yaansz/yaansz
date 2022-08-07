@@ -2,13 +2,6 @@
 printf("Hello! I'm a Computer Science Student 😎");
 ```
 
-<div align="center">
-  <a href="https://github.com/yaansz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaansz&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaansz&layout=compact&langs_count=7&theme=vue&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true&text_color=ffffff"/>
-</div>
-
-
   <h3 align="center"> :books: Trying to learn: </h3>
 
 <div align="center" style="display: inline_block">
@@ -30,9 +23,20 @@ printf("Hello! I'm a Computer Science Student 😎");
 
 <div align="center">
   <li> 🌱 I’m currently in the 7th semester of college at UFRRJ </li>
-  <li> 🔭 I’m currently working on a discord bot (just because i'm bored) </li> 
+  <li> 🔭 I'm working on discord bots in my spare time </li> 
+  <li> 👨‍🏭 I work at Nelogica </li> 
   <li onclick="location.href = 'https://github.com/Softawii/';"> 👯 I'm a contributor and co-founder at Softawii </li>
 </div>
+
+<details align="center">
+<summary> <h3> About my Contributions </h3> </summary>
+
+  <div align="center">
+    <a href="https://github.com/yaansz">
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yaansz&theme=github-dark&hide_border=true"/>
+   </div>
+
+</details>
   
  <h3 align="center"> Contact: </h3> 
   
